@@ -129,6 +129,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ColorUtil.cpp" />
     <ClCompile Include="Hero.cpp" />
     <ClCompile Include="HeroFactory.cpp" />
     <ClCompile Include="MLBB Hero Drafting.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ColorUtil.h" />
     <ClInclude Include="Hero.h" />
     <ClInclude Include="HeroFactory.h" />
     <ClInclude Include="Team.h" />
